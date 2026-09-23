@@ -1,5 +1,10 @@
 # Marina Krull — Advocacia Imobiliária
 
+## Atualização de 23/09/2026
+Substituída apenas a foto da seção sobre Marina por uma variação sintética sentada à mesa, criada com a ferramenta nativa de imagens a partir da foto original. Hero preservado. Arquivos: `assets/marina-atendimento.png` (matriz local) e `assets/marina-atendimento.webp` (publicado). A cliente deve aprovar a semelhança. Pedido adicional de rescisão contratual de cota e devolução de valores aguarda confirmação do tipo de cota; não foi presumido consórcio nem multipropriedade.
+
+Prompt: Use case: identity-preserve. Create one photorealistic alternate portrait based on the supplied real photo of Marina Krull, for the about section of her law firm website. Identity is paramount: preserve her facial structure, eye shape and color, nose, lips, skin tone, age and long straight blonde hair. Same black long-sleeved dress with subtle puff shoulders and same delicate layered gold necklaces. Change the pose: she is seated naturally behind a walnut desk, torso slightly turned, face looking directly toward camera with a restrained welcoming closed-mouth smile. Her forearms rest naturally on the desk beside a closed neutral document folder, relaxed hands with anatomically correct fingers. She is NOT leaning on the back of a chair. Medium seated portrait from head to waist, all head and both hands visible with generous safe margins, vertical 4:5 composition. Keep a coherent warm walnut office background inspired by the actual reference, soft indirect warm shelf lighting, unobtrusive blurred books. Refined professional editorial photography, soft realistic skin texture, no beauty reshaping, no artificial plastic skin. No monitor, no text, no logos, no scales of justice added, no other people. Preserve her likeness closely, do not create a generic blonde model. Natural elegant corporate portrait, not fashion glamour.
+
 Prévia independente criada em 22/09/2026. Não altera sites de outros clientes.
 
 ## Briefing confirmado
